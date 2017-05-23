@@ -1,2 +1,2 @@
 # AspNetMvcTest
-this is test project for ASP.NET MVC
+This is a test project for learning about ASP.NET MVC
